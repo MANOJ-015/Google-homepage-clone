@@ -1,3 +1,4 @@
 # Google-homepage-clone
 
-A static google clone webiste
+It is static google clone website, which is made with `html` and `css`
+ 
